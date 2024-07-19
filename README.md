@@ -20,12 +20,18 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 3) What is the total sales revenue for each month?
    
-In January	the total sales revenue observed is $ 81,677.74
-In February	the total sales revenue observed is $ 76,145.19 
-In March the total sales revenue observed is	$ 98,834.68
-In April the total sales revenue observed is	$ 1,18,941.08
-In May the total sales revenue observed is	$ 1,56,727.76
-In June the total sales revenue observed is	$ 1,66,485.88
+In January	the total sales revenue observed is $ 81,677.74.
+
+In February	the total sales revenue observed is $ 76,145.19.
+
+In March the total sales revenue observed is	$ 98,834.68.
+
+In April the total sales revenue observed is	$ 1,18,941.08.
+
+In May the total sales revenue observed is	$ 1,56,727.76.
+
+In June the total sales revenue observed is	$ 1,66,485.88.
+
 
  Please see the Column chart (Monthly sales) attached for reference 
  
