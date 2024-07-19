@@ -14,13 +14,12 @@ The main objective of this project is to analyze retail sales data to gain actio
    
    ![image](https://github.com/user-attachments/assets/f2349937-fca1-4f2c-b7bd-1c228360e807)
  
-3) Are there any peak times for sales activity?
+2) Are there any peak times for sales activity?
    
    Maximum sales are seen between 9 to 10am and lowest sales are observed at 6am.
-   
-   ![image](https://github.com/user-attachments/assets/620418e9-251a-4064-8313-c047d215d280)
+   ![image](https://github.com/user-attachments/assets/9a198f96-2674-4fae-bdc9-cb3e74b810bb)
 
-5) What is the total sales revenue for each month?
+3) What is the total sales revenue for each month?
    
 In January	the total sales revenue observed is $ 81,677.74
 In February	the total sales revenue observed is $ 76,145.19 
@@ -32,16 +31,16 @@ In June the total sales revenue observed is	$ 1,66,485.88
  Please see the Column chart (Monthly sales) attached for reference 
  ![image](https://github.com/user-attachments/assets/5fab0b38-0fb1-43ca-b4ff-2afa2edac9da)
 
-7) How do sales vary across different store locations?
+4) How do sales vary across different store locations?
    Highest sales are observed at Hell's Kitchen Store location and lowest sales are seen at Lower Manhattan store Location.Average sales are observed at Astoria store location.
    
 ![image](https://github.com/user-attachments/assets/b7b8bfd1-6c1d-41d9-9336-efdba793aca4)
 
-9) What is the average price/order per person?
+5) What is the average price/order per person?
     
    Average price/order is 4.69
    
-11) Which products are the best selling in terms of quantity and revenue?
+6) Which products are the best selling in terms of quantity and revenue?
     
     Barista Espresso ,Brewed Black tea ,Brewed Chai tea, Gourmet brewed coffee, Hot chocolate are the best selling in terms of quantity and revenue.
     
@@ -49,7 +48,7 @@ In June the total sales revenue observed is	$ 1,66,485.88
 
     ![image](https://github.com/user-attachments/assets/e9e54b7a-c8b8-49bb-85da-28c461b62930)
 
-13) How do sales vary by product category and type?
+7) How do sales vary by product category and type?
     
   Please see the line chart (Sales over Product Category & Type) attached for reference
   
