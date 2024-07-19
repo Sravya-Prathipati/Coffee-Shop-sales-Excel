@@ -17,7 +17,6 @@ The main objective of this project is to analyze retail sales data to gain actio
 2) Are there any peak times for sales activity?
    
    Maximum sales are seen between 9 to 10am and lowest sales are observed at 6am.
-   ![image](https://github.com/user-attachments/assets/9a198f96-2674-4fae-bdc9-cb3e74b810bb)
 
 3) What is the total sales revenue for each month?
    
@@ -29,12 +28,13 @@ In May the total sales revenue observed is	$ 1,56,727.76
 In June the total sales revenue observed is	$ 1,66,485.88
 
  Please see the Column chart (Monthly sales) attached for reference 
+ 
  ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
 
 4) How do sales vary across different store locations?
    Highest sales are observed at Hell's Kitchen Store location and lowest sales are seen at Lower Manhattan store Location.Average sales are observed at Astoria store location.
    
-![image](https://github.com/user-attachments/assets/b7b8bfd1-6c1d-41d9-9336-efdba793aca4)
+   ![image](https://github.com/user-attachments/assets/b7b8bfd1-6c1d-41d9-9336-efdba793aca4)
 
 5) What is the average price/order per person?
     
