@@ -29,7 +29,7 @@ In May the total sales revenue observed is	$ 1,56,727.76
 In June the total sales revenue observed is	$ 1,66,485.88
 
  Please see the Column chart (Monthly sales) attached for reference 
- ![image](https://github.com/user-attachments/assets/5fab0b38-0fb1-43ca-b4ff-2afa2edac9da)
+ ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
 
 4) How do sales vary across different store locations?
    Highest sales are observed at Hell's Kitchen Store location and lowest sales are seen at Lower Manhattan store Location.Average sales are observed at Astoria store location.
