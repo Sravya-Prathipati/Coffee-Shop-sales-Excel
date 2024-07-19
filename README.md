@@ -18,6 +18,8 @@ The main objective of this project is to analyze retail sales data to gain actio
    
    Maximum sales are seen between 9 to 10am and lowest sales are observed at 6am.
    
+   ![image](https://github.com/user-attachments/assets/620418e9-251a-4064-8313-c047d215d280)
+
 5) What is the total sales revenue for each month?
    
 In January	the total sales revenue observed is $ 81,677.74
