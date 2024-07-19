@@ -20,20 +20,20 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 3) What is the total sales revenue for each month?
    
-In January	the total sales revenue observed is $ 81,677.74.
+   In January	the total sales revenue observed is $ 81,677.74.
 
-In February	the total sales revenue observed is $ 76,145.19.
+   In February	the total sales revenue observed is $ 76,145.19.
 
-In March the total sales revenue observed is	$ 98,834.68.
+   In March the total sales revenue observed is	$ 98,834.68.
 
-In April the total sales revenue observed is	$ 1,18,941.08.
+   In April the total sales revenue observed is	$ 1,18,941.08.
 
-In May the total sales revenue observed is	$ 1,56,727.76.
+   In May the total sales revenue observed is	$ 1,56,727.76.
 
-In June the total sales revenue observed is	$ 1,66,485.88.
+   In June the total sales revenue observed is	$ 1,66,485.88.
 
 
- Please see the Column chart (Monthly sales) attached for reference 
+    Please see the Column chart (Monthly sales) attached for reference 
  
  ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
 
@@ -59,7 +59,7 @@ In June the total sales revenue observed is	$ 1,66,485.88.
 
 8) How do sales vary by product category and type?
     
-  Please see the line chart (Sales over Product Category & Type) attached for reference
+     Please see the line chart (Sales over Product Category & Type) attached for reference
   
   ![image](https://github.com/user-attachments/assets/59dcaa20-f318-4ce9-b87f-626648310f17)
 
