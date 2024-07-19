@@ -35,7 +35,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
     Please see the Column chart (Monthly sales) attached for reference 
  
- ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
+   ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
 
 4) How do sales vary across different store locations?
    
@@ -55,7 +55,7 @@ The main objective of this project is to analyze retail sales data to gain actio
     
     Please see the Column chart (Monthly sales) attached for reference
 
-    ![image](https://github.com/user-attachments/assets/e9e54b7a-c8b8-49bb-85da-28c461b62930)
+   ![image](https://github.com/user-attachments/assets/e9e54b7a-c8b8-49bb-85da-28c461b62930)
 
 8) How do sales vary by product category and type?
     
