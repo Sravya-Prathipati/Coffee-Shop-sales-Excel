@@ -38,15 +38,18 @@ In June the total sales revenue observed is	$ 1,66,485.88.
  ![Capture](https://github.com/user-attachments/assets/c56c33e5-87c2-4eca-a3c1-7fb83fbf2310)
 
 4) How do sales vary across different store locations?
-   Highest sales are observed at Hell's Kitchen Store location and lowest sales are seen at Lower Manhattan store Location.Average sales are observed at Astoria store location.
+   
+   Highest sales are observed at Hell's Kitchen Store location and lowest sales are seen at Lower Manhattan store Location.
+
+   Average sales are observed at Astoria store location.
    
    ![image](https://github.com/user-attachments/assets/b7b8bfd1-6c1d-41d9-9336-efdba793aca4)
 
-5) What is the average price/order per person?
+6) What is the average price/order per person?
     
    Average price/order is 4.69
    
-6) Which products are the best selling in terms of quantity and revenue?
+7) Which products are the best selling in terms of quantity and revenue?
     
     Barista Espresso ,Brewed Black tea ,Brewed Chai tea, Gourmet brewed coffee, Hot chocolate are the best selling in terms of quantity and revenue.
     
@@ -54,7 +57,7 @@ In June the total sales revenue observed is	$ 1,66,485.88.
 
     ![image](https://github.com/user-attachments/assets/e9e54b7a-c8b8-49bb-85da-28c461b62930)
 
-7) How do sales vary by product category and type?
+8) How do sales vary by product category and type?
     
   Please see the line chart (Sales over Product Category & Type) attached for reference
   
